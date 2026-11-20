@@ -114,4 +114,4 @@ Formato estándar de ADR en todos los ejercicios.
 
 - **Repo:** `como-funciona/0001-bitly`
 - **Índice general:** `../README.md`
-- **Estado:** Por hacer
+- **Estado:** Terminado
